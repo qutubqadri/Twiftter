@@ -18,9 +18,9 @@ WARNING: Sometimes Eclipse/IDE will automatically import the non-NineOldAndroid 
 Usage
 ========
 
-v1 brings the ability to showcase items on the ActionBar. Currently built-in on the Twiftter app are:
+Requirements: Android 3.0 (Honeycomb) and later
 
-Android 3.0 (Honeycomb) and later
+v1.0 brings the ability to function items on the ActionBar. Currently built-in on the Twiftter app are:
 
 All native Android navgation buttons
 Authorise the app through the official twitter website; 100% secure
